@@ -1,0 +1,12 @@
+Contares_EYE mod parts and science definition are inspired by early reconnaissance systems.
+
+Contares_EYE require following mods to work perfect:
+
+RealPlume for visual effects of rocket engines
+Ship Manifest to transfer earned science from part to part without crew 
+ScanSat to use the altimeter (altimetry scan) and SAR (altimetry and biome scan) radar components
+
+Many of the included parts are very small, so it was not possible to create separate decoupler 
+without making operation in the VAB impossible. Please take a look at the context menu of the 
+parts to recognize and understand the existing functions.
+
